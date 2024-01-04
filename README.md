@@ -3,7 +3,7 @@
 
 <p align="center"><strong>I'm currently in my final year of studying Computer Science and Engineering, passionate about the world of software engineering. With a focus on problem solving, I've honed my skills in Python, SQL, C++, and machine learning, all while developing a strong understanding of algorithms and data structures. I'm eager to contribute and collaborate in the exciting realm of technology and software development. Let's spark something great together.</strong></p>
 
-- 🌱 I’m currently learning **Django, Vuejs**
+- 🌱 I’m currently learning **Django, Web Development**
 
 - 📫 How to reach me **siddikyrejoan.work@gmail.com**
 
